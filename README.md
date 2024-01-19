@@ -35,4 +35,4 @@ I'm always open to new opportunities, collaborations, and conversations. If you'
 - **GitHub:** [Sandesh S Hegde - Sandy7596](https://github.com/Sandy7596)
 - **Twitter:** [Sandesh S Hegde](https://twitter.com/S_Sandesh_Hegde)
 
-Thank you for visiting my code. You can look at my portfolio website on [Sandesh S Hegde](http://sandesh-s-hegde.online/)
+Thank you for visiting my code. You can look at my portfolio website on [Sandesh Hegde](http://sandesh-s-hegde.online/)
