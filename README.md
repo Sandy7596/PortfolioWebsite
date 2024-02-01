@@ -30,7 +30,7 @@ Learn about my professional experience, including previous roles, and responsibi
 
 I'm always open to new opportunities, collaborations, and conversations. If you'd like to get in touch, feel free to reach out through the following channels:
 
-- **Email:** sandeshshegde7596@gmail.com
+- **Email:** [sandeshshegde7596@gmail.com]
 - **LinkedIn:** [Sandesh S Hegde](https://www.linkedin.com/in/sandesh-s-hegde/)
 - **GitHub:** [Sandesh S Hegde - Sandy7596](https://github.com/Sandy7596)
 - **Twitter:** [Sandesh S Hegde](https://twitter.com/S_Sandesh_Hegde)
