@@ -35,7 +35,7 @@ const Header = () => {
 
   const handleDownloadCV = () => {
     const cvUrl =
-      "https://flowcv.com/resume/dlun5sjeek";
+      "https://drive.google.com/file/d/1nkFs85y3vQx7BwAbYsCXLsNUVtR_Sj2Y/view?usp=sharing";
       window.open(cvUrl, '_blank');
   };
 
