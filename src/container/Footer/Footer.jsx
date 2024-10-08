@@ -50,15 +50,15 @@ const Footer = () => {
         <div className="app__footer-card ">
           <img src={images.email} alt="email" />
           <a href="mailto:sandeshshegde7596@gmail.com" className="p-text">
-            sandeshshegde7596@gmail.com
+            s.sandesh.hegde@gmail.com
           </a>
         </div>
         <div className="app__footer-card">
           <img src={images.mobile} alt="phone" />
           <a href="tel:+81-70-9090-1181" className="p-text">
-            +81-70-9090-1181
+            +353 (089) 248 7450
           </a>
-          <div className="app__footer-card">
+          {/* <div className="app__footer-card">
             <img src={images.whatsapp} alt="whatsapp" />
             <a
               href="https://wa.link/1ratxz"
@@ -68,7 +68,7 @@ const Footer = () => {
             >
               +91-9606719062
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
 

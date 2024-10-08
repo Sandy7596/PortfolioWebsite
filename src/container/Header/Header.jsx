@@ -35,7 +35,7 @@ const Header = () => {
 
   const handleDownloadCV = () => {
     const cvUrl =
-      "https://drive.google.com/file/d/1nkFs85y3vQx7BwAbYsCXLsNUVtR_Sj2Y/view?usp=sharing";
+      "https://flowcv.com/resume/sun2kvgshk";
       window.open(cvUrl, '_blank');
   };
 
@@ -57,8 +57,9 @@ const Header = () => {
           </div>
 
           <div className="tag-cmp app__flex">
-            <p className="p-text">Front-end Developer</p>
-            <p className="p-text">Web Designer</p>
+            <p className="p-text">Front-end Development</p>
+            <p className="p-text">Project Management</p>
+            <p className="p-text">UI/UX</p>
           </div>
 
           {/* Download CV Button */}

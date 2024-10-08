@@ -11,7 +11,8 @@ const About = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    const query = '*[_type == "abouts"]';
+    // Update the query to include sorting by year in descending order
+    const query = '*[_type == "abouts"] | order(year desc)';
 
     client
       .fetch(query)
@@ -36,9 +37,11 @@ const About = () => {
   return (
     <>
       <h2 className="head-text">
-        Weaving Magic into <span>Web Interfaces</span>
-        <br />
-        with <span> Front-End Expertise</span>
+        Crafting Success through{" "}
+        <span>
+          <br />
+          Project Management Expertise
+        </span>
       </h2>
 
       <div className="app__profiles">
@@ -67,4 +70,4 @@ const About = () => {
   );
 };
 
-export default AppWrap(About, 'about');
+export default AppWrap(About, "about");

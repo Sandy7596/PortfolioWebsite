@@ -32,7 +32,7 @@ I'm always open to new opportunities, collaborations, and conversations. If you'
 
 - **Email:** [sandeshshegde7596@gmail.com]
 - **LinkedIn:** [Sandesh S Hegde](https://www.linkedin.com/in/sandesh-s-hegde/)
-- **GitHub:** [Sandesh S Hegde - Sandy7596](https://github.com/Sandy7596)
+- **GitHub:** [Sandesh S Hegde - Sandy7596](https://github.com/sandesh-s-hegde)
 - **Twitter:** [Sandesh S Hegde](https://twitter.com/S_Sandesh_Hegde)
 
 Thank you for visiting my code. You can look at my portfolio website on [Sandesh Hegde](http://sandeshshegde.online/)
